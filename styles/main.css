@@ -3066,9 +3066,9 @@ body {
   height: 60px;
   width: 60px;
   font-weight: 400;
-  color: #9A9A9A;
+  color: #343a40;
   margin-right: 19px;
-  background-color: rgba(222, 222, 222, 0.3);
+  background-color: #007bff38;
   border-radius: 30px;
 }
 
